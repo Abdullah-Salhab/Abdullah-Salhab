@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Abdullah-Salhab
-- 👀 I’m interested in Web & Mobile development
-- 🌱 I’m currently learning Flutter & Front-end field
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Java, Flutter & Front-end field
 - 📫 How to reach me contact me by the email abdullahsalhab18@gmail.com
+
+![image](https://user-images.githubusercontent.com/99129061/156876492-269442dd-8882-4680-81be-b05f4058f8fa.png)
 
 <!---
 
