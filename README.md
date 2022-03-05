@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah-Salhab
+- 👋 Hi, I’m Abdullah-Salhab Majoring in Computer Science
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java, Flutter & Front-end field
 - 📫 How to reach me contact me by the email abdullahsalhab18@gmail.com
