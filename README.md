@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah-Salhab Majoring in Computer Science
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java, Flutter & Front-end field
+- 🌱 I’m currently learning Flutter & Front-end.
 - 📫 How to reach me contact me by the email abdullahsalhab18@gmail.com
 
 ![image](https://user-images.githubusercontent.com/99129061/156876503-b5df219a-f99d-46d7-8338-70e947ed7fda.png)
