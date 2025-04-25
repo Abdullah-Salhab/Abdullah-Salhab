@@ -27,8 +27,8 @@ A mobile app to manage inventory, alarms, absence, and KPIs for internal teams â
 
 ðŸ“¬ **Get in Touch**  
 - Email: abdullahsalhab18@gmail.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdullah-salhab)  
-- GitHub: [github.com/abdallahsalhab](https://github.com/Abdullah-Salhab)
+- LinkedIn: [linkedin.com/in/abdullah-salhab](https://www.linkedin.com/in/abdullah-salhab)  
+- GitHub: [github.com/Abdullah-Salhab](https://github.com/Abdullah-Salhab)
 
 ---
 
